@@ -22,9 +22,8 @@ const productSchema= new mongoose.Schema({
     },
     images:[
         {
-            image:{
+            filename:{
                 type:String,
-                required: true
             }
         }
     ],
@@ -61,7 +60,7 @@ const productSchema= new mongoose.Schema({
     },
     numOfReviews:{
         type:Number,
-        defaault:0
+        default:0
     },
     reviews:[
         {
