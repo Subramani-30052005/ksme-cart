@@ -1,0 +1,82 @@
+[{
+  "name": "OPPO F21s Pro 5G",
+  "price": 245.67,
+  "description": "OPPO F21s Pro 5G is a powerful device with a stylish design and strong performance.",
+  "retings": 4.5,
+  "images": [
+    {
+      "image": "product_87759895.jpg"
+    }
+  ],
+  "category": "Mobile Phpones",
+  "Seller": "Amazon",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Apple iPhone 15",
+  "price": 999.99,
+  "description": "iPhone 15 features a new design, advanced camera system, and A16 chipset.",
+  "retings": 4.8,
+  "images": [
+    {
+      "image": "product_iphone15.jpg"
+    }
+  ],
+  "category": "Mobile Phpones",
+  "Seller": "Apple Store",
+  "stock": 12,
+  "numOfReviews": 40,
+  "reviews": []
+},
+{
+  "name": "Samsung Galaxy S23 Ultra",
+  "price": 1199.0,
+  "description": "Samsung Galaxy S23 Ultra comes with 200MP camera, fast processor, and long-lasting battery.",
+  "retings": 4.7,
+  "images": [
+    {
+      "image": "product_s23ultra.jpg"
+    }
+  ],
+  "category": "Mobile Phpones",
+  "Seller": "Samsung",
+  "stock": 8,
+  "numOfReviews": 22,
+  "reviews": []
+},
+{
+  "name": "HP Pavilion 15",
+  "price": 750.5,
+  "description": "HP Pavilion 15 is a reliable laptop with i5 processor, 16GB RAM, and 512GB SSD.",
+  "retings": 4.3,
+  "images": [
+    {
+      "image": "product_hp_pavilion15.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "Seller": "HP",
+  "stock": 6,
+  "numOfReviews": 18,
+  "reviews": []
+},
+{
+  "name": "Sony WH-1000XM5",
+  "price": 399.99,
+  "description": "Sony WH-1000XM5 noise-cancelling headphones with premium sound and comfort.",
+  "retings": 4.6,
+  "images": [
+    {
+      "image": "product_sony_xm5.jpg"
+    }
+  ],
+  "category": "Headphones",
+  "Seller": "Sony",
+  "stock": 20,
+  "numOfReviews": 30,
+  "reviews": []
+}
+
+]
